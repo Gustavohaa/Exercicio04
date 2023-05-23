@@ -1,9 +1,9 @@
 package Triangulo;
 
 public class Triangulo {
-    public  double lado1;
-    public  double lado2;
-    public double lado3;
+    private  double lado1;
+    private  double lado2;
+    private  double lado3;
 
     public double getLado1() {
         return lado1;
