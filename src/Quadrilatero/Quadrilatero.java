@@ -1,8 +1,8 @@
 package Quadrilatero;
 
 public class Quadrilatero {
-    public  double lado1;
-    public  double lado2;
+    private  double lado1;
+    private  double lado2;
 
     public double getLado1() {
         return this.lado1;
